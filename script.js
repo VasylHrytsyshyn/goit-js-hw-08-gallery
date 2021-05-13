@@ -1,0 +1,1 @@
+import galleryList from './gallery-items.js';
